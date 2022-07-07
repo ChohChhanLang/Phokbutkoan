@@ -1,22 +1,22 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            《作田人博物館》
+longtitle:        Choh-chhân-lâng Phok-bu̍t-koán (作田人博物館)
+author:           Siau Lah-jih
+email:            taibunkesimi+chohchhanlang@gmail.com
 description: >
   Build Jekyll site with the GitBook style.
 
-version:          1.0
+version:          0.1
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://chohchhanlang.github.io'
+baseurl:          '/Chohchhanlang'
 rss:              RSS
 
 toc:
   enabled: true
   h_min: 1
-  h_max: 3
+  h_max: 2
 
 # markdown render engine.
 markdown:         kramdown
@@ -29,13 +29,15 @@ kramdown:
   syntax_highlighter:     rouge
   syntax_highlighter_opts:
     guess_lang:           true
+  typographic_symbols:
+      ndash: --
 
 syntax_highlighter_style: colorful
 
 markdown_ext:     markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
-permalink:        /:categories/:year-:month-:day-:title:output_ext
+permalink:        /:categories/:month-:day:output_ext
 
 exclude:
   - _drafts
@@ -54,3 +56,5 @@ regenerate:       true
 plugins:
   - jekyll-feed
   - jemoji
+
+extra_css: extra_css.css

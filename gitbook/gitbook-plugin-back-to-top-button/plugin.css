@@ -1,7 +1,7 @@
 .back-to-top {
     position: fixed;
     bottom: 25px;
-    right: calc((100% - 300px - min(100% - 300px, 800px)) / 2 + 25px);
+    right: calc((100% - 360px - min(100% - 360px, 800px)) / 2 + 25px);
     background: rgba(0, 0, 0, 0.5);
     width: 50px;
     height: 50px;

@@ -1,20 +1,22 @@
 <div class="book-summary">
     <nav role="navigation">
-        <div id="book-search-input" role="search">
+        <!-- <div id="book-search-input" role="search">
             <input type="text" placeholder="Type to search" />
         </div>
         <div id="book-search-input-link" role="search">
             <a href="{{site.baseurl}}/search.html">Click to Search</a>
-        </div>
+        </div> -->
         <ul class="summary">
             {% if page.url == "/index.html" or page.url == "/" %}
             <li class="chapter active" data-level="1.1" data-path="{{site.baseurl}}">
             {% else %}
             <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}">
             {% endif %}
-                <a href="{{site.baseurl}}/">
-                    {{ site.title | escape }}
-                </a>
+                <h2>
+                    <a href="{{site.baseurl}}/">
+                        {{ site.title | escape }}
+                    </a>
+                </h2>
             </li>
 
             <li class="divider"></li>
@@ -26,30 +28,60 @@
 
                     {% for post in reversed_posts %}
                         {% if page.url == post.url %}
-                        <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
+                            <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
                         {% else %}
-                        <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
+                            <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
                         {% endif %}
-                            <a href="{{site.baseurl}}{{post.url}}">
-                                {{ post.title | escape }}
-                            </a>
-                            {% if site.toc.enabled %}
-                                {% if page.url == post.url %}
-                                    {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
-                                {% endif %}
+
+                        {% if post.show_chapter == 1 %}
+                            <h4>&nbsp;&nbsp;第1章——作田人田園紀事</h4>
+                        {% elsif post.show_chapter == 2 %}
+                            <h4>&nbsp;&nbsp;第2章——作田人生活紀事</h4>
+                        {% elsif post.show_chapter == 3 %}
+                            <h4>&nbsp;&nbsp;第3章——作田人傳統紀事</h4>
+                        {% elsif post.show_chapter == 4 %}
+                            <h4>&nbsp;&nbsp;第4章——作田人在地紀事</h4>
+                        {% endif %}
+
+                        {% if collection.label == "posts" %}
+                            <b>
+                        {% endif %}
+                        <a href="{{site.baseurl}}{{post.url}}">
+                            <!-- {% if collection.label == "posts" %}
+                                &nbsp;
+                            {% endif %} -->
+                            {{ post.title | escape }}
+                        </a>
+                        {% if collection.label == "posts" %}
+                            </b>
+                        {% endif %}
+
+                        {% if site.toc.enabled %}
+                            {% if page.url == post.url %}
+                                <font size="2">
+                                {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
+                                </font>
                             {% endif %}
+                        {% endif %}
+                        
                         </li>
                     {% endfor %}
 
+                    {% if collection.label == "posts" %}
+                        <br>
+                    {% endif %}
+                    
                     <li class="divider"></li>
                 {% endif %}
             {% endfor %}
 
-            <li>
+            <br>&nbsp;&nbsp;© Siau Lah-jih（蕭平治）<br><br><br>
+
+            <!-- <li>
                 <a href="https://github.com/sighingnow/jekyll-gitbook/fork" target="blank" class="gitbook-link">
                     Fork it Now!
                 </a>
-            </li>
+            </li> -->
         </ul>
     </nav>
 </div>
