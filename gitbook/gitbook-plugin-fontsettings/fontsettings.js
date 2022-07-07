@@ -29,13 +29,13 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
     // Default font families
     var FAMILIES = [
         {
-            config: 'serif',
-            text: 'Serif',
+            config: 'Iansui',
+            text: 'Iân-sui',
             id: 0
         },
         {
-            config: 'sans',
-            text: 'Sans',
+            config: 'Huninn',
+            text: 'Hún-îⁿ',
             id: 1
         }
     ];
