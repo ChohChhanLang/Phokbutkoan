@@ -5,6 +5,10 @@
     overflow-y: scroll;
 }
 
+.book-header {
+    font-family: "Iansui";
+}
+
 .book-body .book-header {
     position: fixed;
     width: 100%;
