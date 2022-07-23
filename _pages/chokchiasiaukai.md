@@ -6,7 +6,7 @@ category: siaukai
 layout: post
 ---
 
-    Pó͘ 1 tiuⁿ Siau lāu-su ê siōng.
+![](../../too5/00/chokchia1.jpg)
 
 ### 蕭平治（Siau Lah-jih）
 
@@ -72,3 +72,5 @@ layout: post
 - [老人囡仔性閒閒罔話仙](http://chhantionglang.blogspot.com/)
 - [台語讀寫 有聲教學](http://tiantionglang.blogspot.com/)
 - [Lahjih老師的網誌](http://blog.xuite.net/kouhua/lahjih)
+
+![](../../too5/00/chokchia2.jpg)

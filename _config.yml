@@ -56,5 +56,6 @@ regenerate:       true
 plugins:
   - jekyll-feed
   - jemoji
+  - jekyll-spaceship
 
 extra_css: extra_css.css

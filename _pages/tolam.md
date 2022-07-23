@@ -6,22 +6,38 @@ category: siaukai
 layout: post
 ---
 
-    Pó͘ 1 tiuⁿ tô͘.
+![](../../too5/00/tolam.jpg)
 
 # 1. 話頭
+Kó͘-chá kó͘-chá, Góa sī chin phāⁿ, Chit-mái chit-mái, Bô lâng chhap góa.
+
 古早古早，我是真奅，這馬這馬，無人插我；
+
+Kòe-khí kòe-khì, Góa chin tiōng-iàu, Hiān-tāi hiān-tāi, Bô lâng ài góa.
 
 過去過去，我真重要，現代現代，無人愛我；
 
+Jîn-seng jîn-seng, Su-iàu kì-tî, Le̍k-sú le̍k-sú, Chù-tiōng tē-khì.
+
 人生人生，需要記智，歷史歷史，注重地氣；
+
+Thoân-sêng thoân-sêng, Tio̍h kóng Bó-gí, Tâi-gí Tâi-gí, Chiah ē thàu-ki.
 
 傳承傳承，著講母語，台語台語，才會透機；
 
+Tâi-oân Tâi-oân, Sī lán Bó-chhin, Thó͘-tē thó͘-tē, Tio̍h-ài chhin-kīn.
+
 台灣台灣，是咱母親，土地土地，著愛親近；
+
+Chāi-tē chāi-tē, Iá-seng su-khó, Cháu-chhōe cháu-chhōe, Chó͘-sian kì-tì.
 
 在地在地，野生思考，走揣走揣，祖先記智；
 
+Bo̍k-phiau bo̍k-phiau, Ū kin ū pún, Bī-lâi bī-lâi, Chai Lán siáⁿ-lâng.
+
 目標目標，有根有本，未來未來，知咱啥人；
+
+Kó͘-bu̍t kó͘-bu̍t, Sian-jîn tì-hūi, Liáu-kái liáu-kái, Tui-su siàu-liām.
 
 古物古物，先人智慧，了解了解，追思數念。
 
