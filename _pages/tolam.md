@@ -8,94 +8,110 @@ layout: post
 
 ![](../../too5/00/tolam.jpg)
 
+
 # 1. 話頭
 Kó͘-chá kó͘-chá, Góa sī chin phāⁿ, Chit-mái chit-mái, Bô lâng chhap góa.
 
+
 古早古早，我是真奅，這馬這馬，無人插我；
+
 
 Kòe-khí kòe-khì, Góa chin tiōng-iàu, Hiān-tāi hiān-tāi, Bô lâng ài góa.
 
+
 過去過去，我真重要，現代現代，無人愛我；
+
 
 Jîn-seng jîn-seng, Su-iàu kì-tî, Le̍k-sú le̍k-sú, Chù-tiōng tē-khì.
 
+
 人生人生，需要記智，歷史歷史，注重地氣；
+
 
 Thoân-sêng thoân-sêng, Tio̍h kóng Bó-gí, Tâi-gí Tâi-gí, Chiah ē thàu-ki.
 
+
 傳承傳承，著講母語，台語台語，才會透機；
+
 
 Tâi-oân Tâi-oân, Sī lán Bó-chhin, Thó͘-tē thó͘-tē, Tio̍h-ài chhin-kīn.
 
+
 台灣台灣，是咱母親，土地土地，著愛親近；
+
 
 Chāi-tē chāi-tē, Iá-seng su-khó, Cháu-chhōe cháu-chhōe, Chó͘-sian kì-tì.
 
+
 在地在地，野生思考，走揣走揣，祖先記智；
+
 
 Bo̍k-phiau bo̍k-phiau, Ū kin ū pún, Bī-lâi bī-lâi, Chai Lán siáⁿ-lâng.
 
+
 目標目標，有根有本，未來未來，知咱啥人；
+
 
 Kó͘-bu̍t kó͘-bu̍t, Sian-jîn tì-hūi, Liáu-kái liáu-kái, Tui-su siàu-liām.
 
+
 古物古物，先人智慧，了解了解，追思數念。
+
 
 ### 古物á是老人記智，少年人ê歷史
 古物á是老人記智，少年人ê歷史，有記智ê人生，活--teh to̍h有意義，有古物ê歷史，少年人to̍h-ē感恩siàu念。語言是溝通工具，母語是族群互動siāng貼心ê語言，台語人講台語chiah有法度原汁原味講出心聲，借用別人語言to̍h無才調百分百表達心意，因為族群母語是父公祖媽傳承ê生活語言，chia ê生活語言to̍h是咱ê文化根源，任何其他語言絕對無法度代替。
 
+
 蕭平治出世tī 1941日人時代，學校讀冊是中國歷史地理北京話，早暗生活食飯thit-thô lóng講台語台灣話，每日關心--ê是厝前厝後、灶腳、豬椆，田園khau草、挽菜、khioh稻穗、潦水溝，因為好玄常做店á撐，大人話鬚承bē少，m̄-chiah bat真chē學校無教ê作田家私、厝內工具。料想bē到，chia ê 無受正規教育重視ê生活文化，soah pìⁿ-chiâⁿ 紹介作田人古物á ê肥底。
+
 
 2010年kha-tau，台東大學張學謙教授鼓勵我tiàm網站[老人囡仔性，閒閒罔話仙。](http://chhantionglang.blogspot.tw) 寫「古物á」紹介hō͘伊ê學生了解，2015年受中央研究院臺灣史研究所Kaim Ang翁佳音教授鼓勵，hō͘我有勇氣有計畫編寫《作田人博物館導覽》，tī 3-4年時間編寫16篇分類單元，kah 9篇專題單元。
 
+
 2022年，將資料têng整理、têng編排了，《作田人博物館》chiūⁿ網，利便大家學習台語文kap台灣學。
+
 
 # 2. 網頁版目錄
 電子版網頁koh加入章ê概念，分做六章，hō͘讀者khah有概念khah好讀，以下是目錄：
 
+
 ### 第1章 ── 作田人田園記事
 > **Tē 1 Chiuⁿ ── Choh-chhân-lâng Chhân-hn̂g Kí-sū**
 
-1. 駛田篇
-2. 播田篇
-3. 割稻篇
-4. 曝粟篇
-5. 收藏篇
+1. 家鄉ê景致
+2. 作田人Kui年冬ê Khang-khòe
+3. 駛田──整理田土ê Khang-khòe
+4. 牛Án-chóaⁿ Kā作田人tàu作穡
+5. 人工整理田土
+6. 淹田──Hō͘稻á食水
+7. 秧Chioh──栽培秧á
+8. 播田到收成進前ê過程
+9. 收成──割稻á ê過程
+10. 崁頂庄割稻á班割稻實況
+11. 曝粟──準備收藏、買賣 
+12. 曝粟時Gín-á teh無閒Siáⁿ？
+13. 曝粟家私紹介
+14. 風鼓──鼓粟á Thang收藏
+15. 粟á kap其他資源收藏
+16. 醬鹹曝Koaⁿ kap收藏ê家私
+
+> **註：第2章以後會陸續整理好勢，chiah koh刊--出-來**
 
 ### 第2章 ── 作田人Chia̍h-si̍t記事
 > **Tē 2 Chiuⁿ ── Choh-chhân-lâng Chia̍h-si̍t Kí-sū**
 
-1. 灶跤篇
-2. 食水篇
-3. 食飯篇
-4. 點心篇
-
 ### 第3章 ── 作田人生活記事
 > **Tē 3 Chiuⁿ ── Choh-chhân-lâng Seng-oa̍h Kí-sū**
-
-1. 買賣篇
-2. 運搬篇
-3. 工具篇
-4. 走街生理篇
 
 ### 第4章 ── 作田人Khiā家記事
 > **Tē 4 Chiuⁿ ── Choh-chhân-lâng Khiā-ke Kí-sū**
 
-1. 厝宅篇
-2. 火光篇
-3. 家具篇
-
 ### 第5章 ── 作田人傳統記事
 > **Tē 5 Chiuⁿ ── Choh-chhân-lâng Thoân-thóng Kí-sū**
 
-1. 炊粿篇
-2. 嫁妝篇
-3. 嫁娶篇
-4. 龍眼焙á
-5. 薰焙á
-
 ### 第6章 ── 作田人在地記事
 > **Tē 6 Chiuⁿ ── Choh-chhân-lâng Chāi-té Kí-sū**
+
 
 1. 崁頂集興軒子弟(團)
 2. 崁頂庄阿隆師
@@ -103,6 +119,7 @@ Kó͘-bu̍t kó͘-bu̍t, Sian-jîn tì-hūi, Liáu-kái liáu-kái, Tui-su si�
 5. 田中央國華西裝社
 6. 溪州成功旅社
 7. 田中央啟明寫真館
+
 
 # 3. 寫作概念kap感謝ê人
 
@@ -118,6 +135,7 @@ Kó͘-bu̍t kó͘-bu̍t, Sian-jîn tì-hūi, Liáu-kái liáu-kái, Tui-su si�
 
 ### 4-1. 台語腔口
 > **Tâi-gí Khiuⁿ-kháu**
+
 
 以作者蕭平治家鄉彰化縣八卦山邊Chhân-tiong-ng（彰化縣田中）為主。比較khah無kāng ê腔口，親像Si-san（書山）、Phó͘-hin-chng（普興庄）、Chiang-hòa（彰化）、Chiàng-iâ（將爺）、Ngó͘-sè-kî-chhiang（五世其昌）。
 
