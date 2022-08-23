@@ -13,14 +13,6 @@ mermaid: true
 > **Choh-chhân-lâng Kui Nî-tang ê Khang-khòe**
 
 ![](../too5/02/Choh-chhân-lâng%20Kui%20Nî-tang%20ê%20Khang-khòe.png)
-<!-- ```mermaid!
-graph LR
-    A["駛田"] --> B("播田")
-    B --> C("收成（割稻á）")
-    C --> D("曝粟")
-    D --> E("收藏")
-    E --> A
-``` -->
 
 ![](../too5/02/2-1-1.播田.jpg)
 Án-ne一冬koh一冬；透早是田水冷ki-ki，boeh晝是日頭赤iāⁿ-iāⁿ，kui冬ê無閒，kan-nā ǹg望年年好收成。
