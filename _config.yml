@@ -10,7 +10,7 @@ version:          0.1
 gitbook_version:  3.2.3
 
 url:              ''
-baseurl:          'https://siaulahjih.github.io/ChohChhanLang/'
+baseurl:          'https://siaulahjih.github.io/ChohChhanLang'
 rss:              RSS
 
 toc:
