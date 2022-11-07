@@ -23,8 +23,8 @@ Siau Lah-jih（蕭平治）先生chit本著作ê內容實在是不止á豐沛，
 * 作者、指導：Siau Lah-jih（蕭平治）
 * 共同發起人：Siau Lah-jih（蕭平治）、Chhòa It-bîn、Koa-ông Péng-hun、N̂g Ú-iûⁿ、Ngô͘ Hê-bí
 * 總編輯：Chhòa It-bîn、Ngô͘ Hê-bí
-* 內容編輯：Chhòa It-bîn、Koa-ông Péng-hun、N̂g Ú-iûⁿ、Ngô͘ Hê-bí
-* 網站：Ngô͘ Hê-bí（Tâi-bûn Ke-si-mī／台文雞絲麵）
+* 內容編輯：Chhòa It-bîn、Koa-ông Péng-hun、N̂g Ú-iûⁿ、Ngô͘ Hê-bí、Tân Sió-tâi
+* 網站：Ngô͘ Hê-bí（Tâi-bûn Ke-si-mī／台文雞絲麵）、Tân Chu-hôa
 
 ## 建議、聯絡
 Nā網站內容有任何問題a̍h是建議，請聯絡網站負責人 Ngô͘ Hê-bí（[Tâi-bûn Ke-si-mī／台文雞絲麵](https://www.zeczec.com/projects/taibun-kesimi)）。
