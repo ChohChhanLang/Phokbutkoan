@@ -16,7 +16,7 @@ Siau Lah-jih（蕭平治）先生chit本著作ê內容實在是不止á豐沛，
 ## 版權告白
 * 本網站內底ê內容著作權屬原作者 Siau Lah-jih（蕭平治）先生。
 * 所有ê資料單單tī網站頂面thang看，是beh利便社會大眾學習台語文，**歡迎自由分享chit ê網站ê網址**。
-* **禁止做其他任何形式ê路用，包括直接lia̍h網站畫面、直接kho͘圖片、文字內容去其他所在轉貼等等。**
+* **網站kan-na ē-tàng非營利使用。所有ê資料除起合理引用、a̍h是宣傳、教學ê路用，bē-tàng koh用任何形式the̍h去別位使用。作品內底ê羅馬字一定ài使用白話字（Pe̍h-ōe-jī），bē-tàng轉換做其他系統。**
 * 著作權 © Siau Lah-jih（蕭平治）
 
 ## 計劃團隊
@@ -25,6 +25,7 @@ Siau Lah-jih（蕭平治）先生chit本著作ê內容實在是不止á豐沛，
 * 總編輯：Chhòa It-bîn、Ngô͘ Hê-bí
 * 內容編輯：Chhòa It-bîn、Koa-ông Péng-hun、N̂g Ú-iûⁿ、Ngô͘ Hê-bí、Tân Sió-tâi
 * 網站：Ngô͘ Hê-bí（Tâi-bûn Ke-si-mī／台文雞絲麵）、Tân Chu-hôa
+* 協助單位：Tá-káu Tâi-gí-bûn Chhiok-chìn Hia̍p-hōe（打狗台語文促進協會）
 
 ## 建議、聯絡
 Nā網站內容有任何問題a̍h是建議，請聯絡網站負責人 Ngô͘ Hê-bí（[Tâi-bûn Ke-si-mī／台文雞絲麵](https://www.zeczec.com/projects/taibun-kesimi)）。
