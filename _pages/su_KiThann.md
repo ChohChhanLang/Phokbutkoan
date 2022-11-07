@@ -6,7 +6,6 @@ category: siaukai
 layout: post
 ---
 
-# 蕭平治 ＜Siau Lah-jih> 其它作品
 
 [《台灣俗語鹹酸甜第1冊》](https://siaulahjih.github.io/KiamSngTinn1/)
 
