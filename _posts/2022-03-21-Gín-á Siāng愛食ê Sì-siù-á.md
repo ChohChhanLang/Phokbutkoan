@@ -84,7 +84,7 @@ Pōng好iáu未chhiau糖膏ê米芳。
 
 一隻雙台鐵馬，後載載1-kha柴箱，柴箱內面khǹg一大盒金黃金黃ê麥芽（糖）、ó͘麥芽ê竹pêng-á、黏麥芽ê竹chhiám-á kap kauh麥芽用--ê薄餅á。手giâ一支「kho̍k kho̍k kho̍k kho̍k」ê搖管á：「麥芽--ō͘！麥芽--ō͘！來買麥芽--lah，麥芽kauh餅--ō͘！」
 
-1950年代，麥芽一支1角銀，麥芽kauh kiáⁿ 1-kauh 2角，有人boeh買，to̍h竹pêng-á giâ--leh挖1-ê起頭，sòa--落用手ûn-ûn-á giú、ûn-ûná黏，giú hō͘薄li-si，黏ho͘ tiâu tī竹chhiám-á頂，a̍h是黏tī 2塊餅中間。
+1950年代，麥芽一支1角銀，麥芽kauh kiáⁿ 1-kauh 2角，有人boeh買，to̍h竹pêng-á giâ--leh挖1-ê起頭，sòa--落用手ûn-ûn-á giú、ûn-ûn-á黏，giú hō͘薄li-si，黏ho͘ tiâu tī竹chhiám-á頂，a̍h是黏tī 2塊餅中間。
 
 這是gín-á siāng kah意嘴食物，ûn-ûn-á chn̄g，ûn-ûn-á享受甜ê甜頭，1角銀吮boeh半點鐘，m̄ kam甜but-but ê滋味一時á to̍h消失，永遠ê記智，tī hit ê sàn赤無錢ê gín-á時代。
 ![](../too5/17/17-19-1麥芽.jpg)
@@ -93,7 +93,7 @@ Pōng好iáu未chhiau糖膏ê米芳。
 ## 3-1. 搖管á
 > **Iô-kóng-á**
 
-賣雜細giâ–ê是搖鼓，long long tong tong；賣麥芽giâ--ê是銅管á做ê搖管á，搖--起-來是「kho̍k kho̍k kho̍k kho̍k」，聽聲to̍h知影是賣雜細--ê a̍h是賣麥芽--ê，叫--來ê顧客bē têng-tâⁿ。
+賣雜細giâ–-ê是搖鼓，long long tong tong；賣麥芽giâ--ê是銅管á做ê搖管á，搖--起-來是「kho̍k kho̍k kho̍k kho̍k」，聽聲to̍h知影是賣雜細--ê a̍h是賣麥芽--ê，叫--來ê顧客bē têng-tâⁿ。
 ![](../too5/17/17-19-3麥芽.jpg)
 ![](../too5/17/17-19-4麥芽搖管.jpg)
 ![](../too5/17/17-19-5搖管仔.jpg)
