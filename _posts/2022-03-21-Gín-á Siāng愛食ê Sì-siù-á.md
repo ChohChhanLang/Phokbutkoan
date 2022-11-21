@@ -38,13 +38,13 @@ Pōng米芳是經過密封ê壓力鐵爐加熱加壓，tháu放壓力後，產�
 Phah你千，phah你萬，phah你一千khòng五萬，
 Chhiu chhiu chhiu，bē見笑， ioh輸m̄ kam願，ī輸起he-ku， m̄ kam願，起he-ku，我boeh來去投老師，投老師。
 
-## 2. Pōng米芳ê家私
+# 2. Pōng米芳ê家私
 > **Pōng Bí-phang ê Ke-si**
 
-壓力鐵爐，火爐，鼎，網á袋，菜刀，pān-á。
+Pōng米芳ê家私有壓力鐵爐、火爐、鼎、網á袋、菜刀kah pān-á。
 
 ## 2-1 壓力鐵爐
-> **Ap-lek Thih-lô͘**
+> **Ap-le̍k Thih-lô͘**
 
 ![](../too5/17/17-14-3磅米芳.jpg)
 
@@ -87,20 +87,19 @@ Pōng好iáu未chhiau糖膏ê米芳。
 1950年代，麥芽一支1角銀，麥芽kauh kiáⁿ 1-kauh 2角，有人boeh買，to̍h竹pêng-á giâ--leh挖1-ê起頭，sòa--落用手ûn-ûn-á giú、ûn-ûná黏，giú hō͘薄li-si，黏ho͘ tiâu tī竹chhiám-á頂，a̍h是黏tī 2塊餅中間。
 
 這是gín-á siāng kah意嘴食物，ûn-ûn-á chn̄g，ûn-ûn-á享受甜ê甜頭，1角銀吮boeh半點鐘，m̄ kam甜but-but ê滋味一時á to̍h消失，永遠ê記智，tī hit ê sàn赤無錢ê gín-á時代。
-
 ![](../too5/17/17-19-1麥芽.jpg)
 ![](../too5/17/17-19-2麥芽糖.jpg)
 
 ## 3-1. 搖管á
 > **Iô-kóng-á**
 
-賣雜細 giâ–ê是搖鼓，long long tong tong；賣麥芽giâ--ê是銅管á做ê搖管á，搖--起-來是「kho̍k kho̍k kho̍k kho̍k」，聽聲to̍h知影是賣雜細--ê a̍h是賣麥芽--ê，叫--來ê顧客bē têng-tâⁿ。
+賣雜細giâ–ê是搖鼓，long long tong tong；賣麥芽giâ--ê是銅管á做ê搖管á，搖--起-來是「kho̍k kho̍k kho̍k kho̍k」，聽聲to̍h知影是賣雜細--ê a̍h是賣麥芽--ê，叫--來ê顧客bē têng-tâⁿ。
 ![](../too5/17/17-19-3麥芽.jpg)
 ![](../too5/17/17-19-4麥芽搖管.jpg)
 ![](../too5/17/17-19-5搖管仔.jpg)
 
-## 3-2. 麥芽án-chóaⁿ chò
-> **Be̍h-gê án-chóaⁿ chò**
+## 3-2. 麥芽Ài Án-chóaⁿ做
+> **Be̍h-gê Ài án-chóaⁿ chò**
 
 麥芽是『麥芽糖』m̄是『麥芽』，to̍h親像華語『豆芽菜』咱講豆菜án-ne，漢字書寫台語，台語文用漢字書寫，有時是真oh分別。
 
@@ -119,5 +118,5 @@ Kā puh-íⁿ ê小麥絞汁，chiah koh kap炊熟ê chu̍t米lām做夥lā-lā 
 |Bē見笑|『不知羞恥』。|
 |He-ku|『氣喘病』。|
 |Pān-á|『樣板』。|
-|Chn̄g|用嘴舌chī（舐）。|
+|Chn̄g|用嘴舌chī。|
 |Be̍h-gê kauh餅|餅乾kap麥芽糖。|
