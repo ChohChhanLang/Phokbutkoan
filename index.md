@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![](./../too5/thauiah.jpg)
+![](.//too5/thauiah.jpg)
 
 ## 網站紹介
 Chit ê網站是為tio̍h **Siau Lah-jih（蕭平治）**先生ê著作**《Choh-chhân-lâng Phok-bu̍t-koán (作田人博物館)》**來設--ê。
