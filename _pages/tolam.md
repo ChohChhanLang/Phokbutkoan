@@ -155,12 +155,15 @@ Kó͘-bu̍t kó͘-bu̍t, Sian-jîn tì-hūi, Liáu-kái liáu-kái, Tui-su si�
 27. 送報紙送批、收租
 28. Phah鎖匙
 29. 割漆
-30. 
+
+
+> **註：第4章以後會陸續整理好勢chiah koh刊出**
+
+
 ### 第4章 ── 作田人Khiā家記事
 > **Tē 4 Chiuⁿ ── Choh-chhân-lâng Khiā-ke Kí-sū**
 
 
-> **註：第4章以後會陸續整理好勢chiah koh刊出**
 ### 第5章 ── 作田人傳統記事
 > **Tē 5 Chiuⁿ ── Choh-chhân-lâng Thoân-thóng Kí-sū**
 
