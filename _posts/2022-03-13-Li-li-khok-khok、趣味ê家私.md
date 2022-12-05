@@ -9,12 +9,14 @@ toc: true
 ---
 
 # Li-li-khok-khok、趣味ê家私
-> **Li-li-khok-khok、Chhù-bī ê ke-si**
+> **Li-li-khok-khok、Chhù-bī ê Ke-si**
 
 ![](../too5/08/8-5-8-3-3.熨斗.jpg)
 
 已經無leh使用ê古物á：
-時代進步真驚人，祖先傳承phah-m̄-kiàn，一甲子前kap咱bô-tī-tāi，老人真懷念， 少年--ê soah gāng-gāng。
+
+時代進步真驚人，祖先傳承phah-m̄-kiàn，一甲子前kap咱bô-tī-tāi，老人真懷念，少年--ê soah gāng-gāng。
+
 少年人，你kám知影chia-ê古物á siáⁿ-mih名？siáⁿ-mih路用？
 
 # 1. 家私紹介
@@ -43,7 +45,7 @@ toc: true
 ## 1-3. 熨斗
 > **Ut-táu**
 
-燒火炭ê熨斗，ùi無蓋（kòa）進步到有蓋，chit種熨斗boeh 熨衫進前，tio̍h先hiâⁿ火炭烘熱，溫度pháiⁿ控制，熨斗底面需要斟酌，保持金滑無kha̍h lah-sap chiah好，古早裁縫店師á學功夫，除了掃土腳、hiâⁿ滾水泡茶，起熨斗火是真重要ê技術。
+燒火炭ê熨斗，ùi無蓋（kòa）進步到有蓋，chit種熨斗boeh熨衫進前，tio̍h先hiâⁿ火炭烘熱，溫度pháiⁿ控制，熨斗底面需要斟酌，保持金滑無kha̍h lah-sap chiah好，古早裁縫店師á學功夫，除了掃土腳、hiâⁿ滾水泡茶，起熨斗火是真重要ê技術。
 ![](../too5/08/8-5-8-3-1.熨斗.jpg)
 ![](../too5/08/8-5-8-3-2.熨斗.jpg)
 ![](../too5/08/8-5-8-3-3.熨斗.jpg)
