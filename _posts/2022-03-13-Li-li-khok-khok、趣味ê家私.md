@@ -100,11 +100,11 @@ toc: true
 
 這已經是緊急警報，ta̍k-ke chiⁿ-chiⁿ kheh-kheh tī厝後hông-khong-hô（防空壕）內面。
 
-1945前半冬，米國B-29（B jī-káu）轟炸機時常來掃射，Lah-jih chiah 3歲外，m̄-bat半項，lóng是Lô͘-á兄講hō͘我聽--ê：「Lóng mā我āiⁿ你bih防空壕，你nā腹肚iau我to̍h趨去灶腳，用竹管á貯ám hō͘你lim。」Ē記得iáu未翻新厝進前，掃射tio̍h ê玻璃窗kap gîm-chîⁿ銃子痕跡是老一輩phò-tāu往事ê記智，siáⁿ知70冬經過，咱mā已經chiâⁿ-chò老一輩--à。
+1945前半冬，米國B-29（B jī-káu）轟炸機時常來掃射，Lah-jih chiah 3歲外，m̄-bat半項，lóng是Lô͘-á兄講hō͘我聽--ê：「Lóng mā我āiⁿ你bih防空壕，你nā腹肚iau我to̍h趨去灶腳，用竹管á貯ám hō͘你lim。」Ē記得iáu未翻新厝進前，掃射--tio̍h ê玻璃窗kap gîm-chîⁿ銃子痕跡是老一輩phò-tāu往事ê記智，siáⁿ知70冬經過，咱mā已經chiâⁿ-chò老一輩--à。
 
-日本人轉--去，防空壕iáu tī--leh，後--來塚á土空形ê毀掉，改換khû--落去看bē tio̍h人頭ê溝á式防空溝，講án-ne ē-tàng閃過原子彈ê閃光to̍h無tāi-chì，備用niā-niā，khan-liân-tē m̄-bat bih--過。
+日本人轉--去，防空壕iáu tī--leh，後--來塚á土空形--ê毀掉，改換khû--落-去看bē tio̍h人頭ê溝á式防空溝，講án-ne ē-tàng閃過原子彈ê閃光to̍h無tāi-chì，備用niā-niā，khan-liân-tē m̄-bat bih--過。
 
-He hoⁿ-hoⁿ-kió ê聲音to̍h是水螺聲，空襲警報警報器ê聲音，雖bóng無hit-lō記智，總--是bat聽過B 29 掃射tìm炸彈（chà-tân）ê故事，chit-mái聽tio̍h防空演習ê水螺聲，猶原ē chhoah。
+He hoⁿ-hoⁿ-kiò ê聲音to̍h是水螺聲，空襲警報警報器ê聲音，雖bóng無hit-lō記智，總--是bat聽過B-29掃射tìm炸彈（chà-tân）ê故事，chit-mái聽tio̍h防空演習ê水螺聲，猶原ē chhoah。
 
 ## 1-9. 水螺（手絞防空警報器）
 > **Chúi-lê (Chhiú Ká Hông-khong Kéng-pò-khì)**
@@ -116,7 +116,7 @@ Chit種手絞ê水螺（防空警報器），細kâi輕省，安裝快速方便�
 ![](../too5/17/17-34-2水螺.jpg)
 
 正面看，頭前是hiáng-lûn（響輪），to̍h是發聲所在。
-坦邊看，L型手絞á柄，手絞á絞動箱內ê狗齒á，帶動響輪快速轉se̍h，to̍h ē發出大聲hoⁿ-hoⁿ叫 ê水螺聲，絞愈緊，聲愈koân愈大聲。
+坦邊看，L型手絞á柄，手絞á絞動箱內ê狗齒á，帶動響輪快速轉se̍h，to̍h ē發出大聲hoⁿ-hoⁿ叫ê水螺聲，絞愈緊，聲愈koân愈大聲。
 
 ![](../too5/17/17-34-4水螺.jpg)
 ![](../too5/17/17-34-3水螺.jpg)
@@ -219,4 +219,5 @@ Keⁿ／kiⁿ（經）布，chit（織）草蓆，chhiah（刺）膨紗，pīⁿ
 |篾橋|破篾á時，kiap tī柴刀ê竹片，大細比台尺khah大pán。柴刀肉kah 1-ki篾橋，增加刀肉厚度，破篾á khah liú掠。|
 |溫溫á|Un-un-á，溫火慢燉。|
 |Mo͘h-tah|『馬達』。|
-|Káu-khí-á|狗齒á，to̍h-sī『齒輪』， cogwheel。|
+|狗齒á|Káu-khí-á，to̍h-sī『齒輪』， cogwheel。|
+|Khan-liân-tē|Khai-thian-tē（開天地）ê變音。|
