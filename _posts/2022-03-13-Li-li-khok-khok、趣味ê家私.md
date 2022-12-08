@@ -151,7 +151,7 @@ Chit種手絞ê水螺（防空警報器），細kâi輕省，安裝快速方便�
 （蕭平治老師示範絞後車。）
 
 ## 【Lah-jih散文書寫】三兄弟股一條瓊麻索
-> **【Lah-jih Sòaⁿ-bûn Su-siá】 Saⁿ Hiaⁿ-tī Kó͘ chi̍t-tiâu Khêng-môa-soh**
+> **【Lah-jih Sòaⁿ-bûn Su-siá】 Saⁿ Hiaⁿ-tī Kó͘ Chi̍t-tiâu Khêng-môa-soh**
 
 ![](../too5/17/17-40-1.龍舌蘭.jpg)
 
@@ -184,25 +184,24 @@ Nā是絞兩股ê索á to̍h khah簡單，可惜bē勇mā khah pháiⁿ看頭，
 ## 1-11. 笠á模
 > **Le̍h-á-bô͘**
 
-笠á是作穡人出門cha̍h日jia雨ê帽á，戴--起來輕鬆koh thang風，方便做khang-khòe，koh ē-tàng ia̍t風，笠胎kō͘竹篾á pīⁿ，笠面用竹ha̍h-á竹葉á thīⁿ，號做竹笠á，因為形體淡薄á sêng西瓜，kap葵笠（kôe-le̍h）倚音，mā講做瓜笠（koe-le̍h）。
+笠á是作穡人出門cha̍h日jia雨ê帽á，戴--起-來輕鬆koh thang風，方便做khang-khòe，koh ē-tàng ia̍t風，笠胎kō͘竹篾á pīⁿ，笠面用竹ha̍h-á竹葉á thīⁿ，號做竹笠á，因為形體淡薄á sêng西瓜，kap葵笠（kôe-le̍h）倚音，mā講做瓜笠（koe-le̍h）。
 
 編織笠胎需要桂竹á，用柴刀篾橋破做幼幼ê竹篾á，chiah koh用針線kā捲平ê桂竹á甲ha̍h-á，a̍h是烏葉竹ha̍h-á thīⁿ-tiàm笠胎頂面。
 
-- 笠á模。
+**笠á模。**
 ![](../too5/17/17-37-1草笠仔模.jpg)
 ![](../too5/17/17-37-2笠仔模.jpg)
 ![](../too5/17/17-37-3笠仔模.jpg)
 
-笠á模ê後壁面。
+**笠á模ê後壁面。**
 ![](../too5/17/17-37-4笠仔模.jpg)
 ![](../too5/17/17-37-5笠仔模.jpg)
 
-Pīⁿ竹笠á／瓜笠á需要tiàm笠á模頂頭先用竹篾á pīⁿ骨架，to̍h是pīⁿ笠胎。
-笠á模khǹg-tiàm細隻椅頭á頂，a̍h是chhoa̍h-chhoa̍h khǹg-tiàm架á頂。
+Pīⁿ竹笠á／瓜笠á需要tiàm笠á模頂頭先用竹篾á pīⁿ骨架，to̍h是pīⁿ笠胎。笠á模khǹg-tiàm細隻椅頭á頂，a̍h是chhoa̍h-chhoa̍h khǹg-tiàm架á頂。
 ![](../too5/17/17-37-6笠仔模.jpg)
 ![](../too5/17/17-37-7笠仔模.jpg)
 
-- 捲葉
+**捲葉**
 
 桂竹甲ha̍h-á、竹ha̍h-á，穿入去竹管á縫，kā伊捲ho͘平。
 ![](../too5/17/17-37-8笠仔模.jpg)
