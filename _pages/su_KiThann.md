@@ -8,6 +8,8 @@ layout: post
 
 # 蕭平治 ＜Siau Lah-jih> 作品
 
+[《作田人博物館》](https://siaulahjih.github.io/ChohChhanLang/)
+
 [《台灣俗語鹹酸甜第1冊》](https://siaulahjih.github.io/KiamSngTinn1/)
 
 [《台灣俗語鹹酸甜第2冊》](https://siaulahjih.github.io/KiamSngTinn2/)
