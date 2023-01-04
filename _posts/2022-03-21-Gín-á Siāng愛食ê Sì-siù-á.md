@@ -17,9 +17,9 @@ toc: true
 > **Pōng-bí-phang**
 
 ## 1-1. 炒米芳、米芳kap Pōng米芳
-> **Chhá bí-phang, Bí-phang kap Pōng-bí-phang**
+> **Chhá Bí-phang, Bí-phang kap Pōng-bí-phang**
 
-古早作田人ê gín-á平常時罕得有sì-siù-á tām-sám，大人to̍h ē kā粟á a̍h是白米tiàm大鼎炒ho͘熟炒hō͘煏--開，體積增加無chē，án-ne叫做炒米芳、炒米á，sám一寡鹽花á to̍h鹹芳á鹹芳，食--起來tēng-tēng酥酥芳芳，gín-á人iau-sâi「無魚，蝦mā好。」雖bóng tio̍h揀粟殼，mā是食kah歡喜tang-tang。
+古早作田人ê gín-á平常時罕得有sì-siù-á tām-sám，大人to̍h ē kā粟á a̍h是白米tiàm大鼎炒ho͘熟炒hō͘煏--開，體積增加無chē，án-ne叫做炒米芳、炒米á，sám一寡鹽花á to̍h鹹芳á鹹芳，食--起-來tēng-tēng酥酥芳芳，gín-á人iau-sâi「無魚，蝦mā好。」雖bóng tio̍h揀粟殼，mā是食kah歡喜tang-tang。
 
 生理人kā炒米芳做專業ê生產，chham糖切塊包裝to̍h是商品，叫做「米芳」。
 
@@ -33,17 +33,14 @@ Pōng米芳是經過密封ê壓力鐵爐加熱加壓，tháu放壓力後，產�
 ## 1-2. Gín-á唸謠——一--è炒米芳
 > **Gín-á Liām-iâu——It--è Chhá-bí-phang**
 
-一--è炒米香，二--ē炒韭菜，三--e chhiāng-chhiāng滾，四--è炒米粉。五--ē五將軍， 六--è六kiáⁿ孫，七--è蚵á kûn麵線，八--è講伊boeh分一半， 九--è九嬸婆，十--è kòng 大鑼。
-
-Phah你千，phah你萬，phah你一千khòng五萬，
-Chhiu chhiu chhiu，bē見笑， ioh輸m̄ kam願，ī輸起he-ku， m̄ kam願，起he-ku，我boeh來去投老師，投老師。
+一--è炒米香，二--ē炒韭菜，三--e chhiāng-chhiāng滾，四--è炒米粉。五--ē五將軍，六--è六kiáⁿ孫，七--è蚵á kûn麵線，八--è講伊boeh分一半，九--è九嬸婆，十--è kòng大鑼。Phah你千，phah你萬，phah你一千khòng五萬。Chhiu chhiu chhiu，bē見笑，ioh輸m̄ kam願，ī輸起he-ku，m̄ kam願，起he-ku，我boeh來去投老師，投老師。
 
 # 2. Pōng米芳ê家私
 > **Pōng Bí-phang ê Ke-si**
 
 Pōng米芳ê家私有壓力鐵爐、火爐、鼎、網á袋、菜刀kah pān-á。
 
-## 2-1 壓力鐵爐
+## 2-1. 壓力鐵爐
 > **Ap-le̍k Thih-lô͘**
 
 ![](../too5/17/17-14-3磅米芳.jpg)
@@ -82,11 +79,11 @@ Pōng好iáu未chhiau糖膏ê米芳。
 # 3. 麥芽
 > **Be̍h-gê**
 
-一隻雙台鐵馬，後載載1-kha柴箱，柴箱內面khǹg一大盒金黃金黃ê麥芽（糖）、ó͘麥芽ê竹pêng-á、黏麥芽ê竹chhiám-á kap kauh麥芽用--ê薄餅á。手giâ一支「kho̍k kho̍k kho̍k kho̍k」ê搖管á：「麥芽--ō͘！麥芽--ō͘！來買麥芽--lah，麥芽kauh餅--ō͘！」
+一隻雙台鐵馬，後載載1-kha柴箱，柴箱內面khǹg一大盒金黃金黃ê麥芽（糖）、ó͘麥芽ê竹pêng-á、黏麥芽ê竹chhiám-á kap kauh麥芽用ê薄餅á。手giâ一支「kho̍k kho̍k kho̍k kho̍k」ê搖管á：「麥芽--ō͘！麥芽--ō͘！來買麥芽--lah，麥芽kauh餅--ō͘！」
 
-1950年代，麥芽一支1角銀，麥芽kauh kiáⁿ 1-kauh 2角，有人boeh買，to̍h竹pêng-á giâ--leh挖1-ê起頭，sòa--落用手ûn-ûn-á giú、ûn-ûn-á黏，giú hō͘薄li-si，黏ho͘ tiâu tī竹chhiám-á頂，a̍h是黏tī 2塊餅中間。
+1950年代，麥芽一支1角銀，麥芽kauh kiáⁿ 1-kauh 2角，有人boeh買，to̍h竹pêng-á giâ--leh挖1-ê起頭，sòa--落用手ûn-ûn-á giú、ûn-ûn-á黏，giú ho͘薄li-si，黏ho͘ tiâu tī竹chhiám-á頂，a̍h是黏tī 2塊餅中間。
 
-這是gín-á siāng kah意嘴食物，ûn-ûn-á chn̄g，ûn-ûn-á享受甜ê甜頭，1角銀吮boeh半點鐘，m̄ kam甜but-but ê滋味一時á to̍h消失，永遠ê記智，tī hit ê sàn赤無錢ê gín-á時代。
+這是gín-á siāng kah意嘴食物，ûn-ûn-á chn̄g，ûn-ûn-á享受甜ê甜頭，1角銀chn̄g boeh半點鐘，m̄ kam甜but-but ê滋味一時á to̍h消失，永遠ê記智，tī hit ê sàn赤無錢ê gín-á時代。
 ![](../too5/17/17-19-1麥芽.jpg)
 ![](../too5/17/17-19-2麥芽糖.jpg)
 
