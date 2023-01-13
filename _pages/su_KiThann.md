@@ -23,7 +23,25 @@ layout: post
 - [Lahjih老師的網誌](http://blog.xuite.net/kouhua/lahjih)
 
 
-### 《蕭Lah-jih 台語羅馬字影音課程》
+### 《台灣字kap台語聲韻白話字教學影片》
+
+- [1. 台灣字kap台語聲韻A1](https://youtu.be/hM9KbU3l3IA)
+- [2. 台灣字kap台語聲韻A2](https://youtu.be/jq4VipAxJKE)
+- [3. 台灣字kap台語聲韻A3（第1課 聲母）](https://youtu.be/e5_1WaL65Gw)
+- [4. 台灣字kap台語聲韻A4（第2課 基本韻母）](https://youtu.be/q8YNHtqf4oo)
+- [5. 台灣字kap台語聲韻A5（第3課 鼻化母音）](https://youtu.be/ATyF_L-4-WQ)
+- [6. 台灣字kap台語聲韻A6（第4課 鼻音韻尾韻母）](https://youtu.be/XpclkYo2IkI)
+- [7. 台灣字kap台語聲韻A7（第5課 入音h）](https://youtu.be/SuDhxEtgdLg)
+- [8. 台灣字kap台語聲韻A8（第6課 入音p、t、k）](https://youtu.be/Jme70z_ikxc)
+- [9. 台灣字kap台語聲韻B1](https://youtu.be/zp3NKN_b6To)
+- [10. 台灣字kap台語聲韻B2](https://youtu.be/Lm2lcsYfIco)
+- [11. 台灣字kap台語聲韻B3（第7課 聲調）](https://youtu.be/hlwRXG8JjPQ)
+- [12. 台灣字kap台語聲韻B4（第8課 新式8聲分析）](https://youtu.be/iWosYUwpo2Q)
+- [13. 台灣字kap台語聲韻B5_1（第9課 變調_1）](https://youtu.be/02XqRL7R420)
+- [14. 台灣字kap台語聲韻B5_2（第9課 變調_2）](https://youtu.be/aOz3-mPfvpg)
+- [15. 台灣字kap台語聲韻B6（第9課 變調_3）](https://youtu.be/xqDTVZwT5-M)
+
+### 《羅馬字真趣味》
 
 - [羅馬字真趣味01〔紹介〕](https://youtu.be/gOz_Tr7EKUg)
 
