@@ -23,7 +23,7 @@ layout: post
 - [Lahjih老師的網誌](http://blog.xuite.net/kouhua/lahjih)
 
 
-### 《台語羅馬字影音課程》
+### 《蕭Lah-jih 台語羅馬字影音課程》
 
 - [羅馬字真趣味01〔紹介〕](https://youtu.be/gOz_Tr7EKUg)
 
