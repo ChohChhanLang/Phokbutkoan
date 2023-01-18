@@ -1,5 +1,5 @@
 ---
-title: 蕭平治 ＜Siau Lah-jih> 作品
+title: 蕭平治 ＜Siau Lah-jih> 其他作品Link
 author: Siau Lah-jih
 date: 1000-01-06
 category: siaukai
