@@ -30,7 +30,7 @@ mermaid: true
 
 Tī chit-chām khah閒ê làng縫，厝邊隔壁ê cha-bó͘人to̍h-ē相招會齊，炊碗粿、thoah米篩目、舂麻糍慰勞ka-tī 1年ê辛苦，大人無閒挨粿漿，gín-á歡喜削碗粿chhiám-á。「立冬，補嘴空。」有--ê thâi鴨公tīm補，無--ê bun米糕kā gín-á補膀胱有力，暗時á khah bē chhōa尿，koh khah sàn赤--ê只好看人食，三頓都jiok bē赴，ná有thang補嘴空？
 
-過年前後需要開始犁田準備播早冬稻，田--裡種iûⁿ麻--ê tio̍h ài khau，種番麥tio̍h ài at，糊á番薯tio̍h-ài掘。Khau iûⁿ麻『拔黃麻』、peh iûⁿ麻、khau iûⁿ麻『刮黃麻』，大人gín-á總動員，at番麥是分做幾工at去賣，糊á番薯有人kō͘犁來犁，後壁人工toè-leh khioh，講做「piàⁿ番薯」，to̍h koh無閒一段時間，sòa--落-去to̍h是準備炊粿過年。
+過年前後需要開始犁田準備播早冬稻，田--裡種iûⁿ麻--ê tio̍h ài khau，種番麥tio̍h ài at，糊á番薯tio̍h-ài掘。Khau iûⁿ麻『拔黃麻』、peh iûⁿ麻、khau iûⁿ麻『刮黃麻』，大人gín-á總動員，at番麥是分做幾工at去賣，糊á番薯有人kō͘犁來犁，後壁人工tòe-leh khioh，講做「piàⁿ番薯」，to̍h koh無閒一段時間，sòa--落-去to̍h是準備炊粿過年。
 
 
 # 2. 註解
