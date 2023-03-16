@@ -8,6 +8,8 @@ layout: post
 
 [《作田人博物館》](https://siaulahjih.github.io/ChohChhanLang/)
 
+[《還我台灣鳥á名》](https://siaulahjih.github.io/TaiOanChiauA/)
+
 [《台灣俗語鹹酸甜第1冊》](https://siaulahjih.github.io/KiamSngTinn1/)
 
 [《台灣俗語鹹酸甜第2冊》](https://siaulahjih.github.io/KiamSngTinn2/)
