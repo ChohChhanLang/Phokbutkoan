@@ -6,8 +6,6 @@ category: siaukai
 layout: post
 ---
 
-# 蕭平治 ＜Siau Lah-jih> 作品
-
 [《作田人博物館》](https://siaulahjih.github.io/ChohChhanLang/)
 
 [《還我台灣鳥á名》](https://siaulahjih.github.io/TaiOanChiauA/)
