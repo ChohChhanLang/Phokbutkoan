@@ -6,6 +6,8 @@ category: siaukai
 layout: post
 ---
 
+# 蕭平治 ＜Siau Lah-jih> 作品
+
 [《作田人博物館》](https://siaulahjih.github.io/ChohChhanLang/)
 
 [《還我台灣鳥á名》](https://siaulahjih.github.io/TaiOanChiauA/)
@@ -108,3 +110,7 @@ layout: post
 - [羅馬字真趣味31〔入聲一〕](https://youtu.be/ippeztK4SgU)
 
 - [羅馬字真趣味32〔入聲二〕](https://youtu.be/ojjMpoC_mMQ)
+
+#### 《論文研究》
+
+- [黃月春論文：蕭平治《輕輕鬆鬆讀台語》教學教材研究](../../too5/paper.pdf){:target="_blank"}
