@@ -86,20 +86,20 @@ Tn̄g-tio̍h過年厝內大piàⁿ掃，厝頂kài chē蜘蛛絲kap ian-thûn（
 > **Chù-kái**
 
 |**詞**|**解說**|
-|Chhun--ê|『剩下的』。|
+|chhun--ê|『剩下的』。|
 |柴頭木koe̍h|Chhâ-thâu ba̍k-koe̍h，『木頭木材』。|
-|Thâi|『殺』，台語人ê thâi，thâi雞/鴨，thâi扁擔/kan-lo̍k，相thâi，giâ刀á創作ê意涵。Nā是講sat，to̍h hām華語ê『殺』kāng意思。|
-|Hô腳|Hô-kha，『符合腳的大小尺寸』。|
+|thâi|『殺』，台語人ê thâi，thâi雞/鴨，thâi扁擔/kan-lo̍k，相thâi，giâ刀á創作ê意涵。Nā是講sat，to̍h hām華語ê『殺』kāng意思。|
+|hô腳|Hô-kha，『符合腳的大小尺寸』。|
 |四角長liau形|Sì-kak tn̂g-liau-hêng，『長方形』。|
 |眠床|Bûn-chhn̂g/Bîn-chhn̂g，安眠an-bîn，眠夢bîn-bāng。|
 |斑芝樹|Pan-chi-chhiū，『木棉樹』。|
-|Thǹg赤腳|Thǹg-chhiah-kha，『打赤腳』。|
+|thǹg赤腳|Thǹg-chhiah-kha，『打赤腳』。|
 |王祿á|Ông-lo̍k-á，『行走江湖，以賣藥、賣藝為生的人』。|
 |3-kâi khang|『三個洞』。|
-|Geh-tah|日來詞，げた ，木屐。|
-|Ga-là-suh|ガラス ，玻璃。|
-|Pōaⁿ蚊nê蚊罩|Pōaⁿ-báng，『用拂塵將蚊蟲趕出』。 Nê báng-tà，『掛蚊帳』。|
-|Póe-bē離|『趕都趕不完』。|
-|Chhu被|『墊被』。|
-|Nâ-cha̍h|『攔截』。|
-|Hiat-ka̍k|『丟掉』。|
+|geh-tah|日來詞，げた ，木屐。|
+|ga-là-suh|ガラス ，玻璃。|
+|pōaⁿ蚊nê蚊罩|Pōaⁿ-báng，『用拂塵將蚊蟲趕出』。 Nê báng-tà，『掛蚊帳』。|
+|póe-bē離|『趕都趕不完』。|
+|chhu被|『墊被』。|
+|nâ-cha̍h|『攔截』。|
+|hiat-ka̍k|『丟掉』。|
