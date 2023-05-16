@@ -1,6 +1,6 @@
 ---
 chapter: 第4章——作田人Khiā家記事
-title: 15. Li-li Kho̍k-kho̍k ê家庭用具
+title: 15. Li-li Khok-khok ê家庭用具
 author: Siau Lah-jih
 date: 2022-04-15
 category: chheh
@@ -8,8 +8,8 @@ layout: post
 toc: true
 ---
 
-# Li-li Kho̍k-kho̍k ê家庭用具
-> **Li-li Kho̍k-kho̍k ê Ka-têng Iōng-kū**
+# Li-li Khok-khok ê家庭用具
+> **Li-li Khok-khok ê Ka-têng Iōng-kū**
 
 ![](../too5/16/16-8-4蠓仔水濺a.jpg)
 
