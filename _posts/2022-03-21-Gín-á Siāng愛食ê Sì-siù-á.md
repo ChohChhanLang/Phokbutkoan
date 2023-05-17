@@ -111,9 +111,9 @@ Kā puh-íⁿ ê小麥絞汁，chiah koh kap炊熟ê chu̍t米lām做夥lā-lā 
 
 |**詞**|**解說**|
 |炒米粉|炒米粉是煮食動作，米粉炒是炒好ê點心、羹頓。|
-|Chhiu chhiu chhiu|『羞 羞 羞，羞羞臉。』|
-|Bē見笑|『不知羞恥』。|
-|He-ku|『氣喘病』。|
-|Pān-á|『樣板』。|
-|Chn̄g|用嘴舌chī。|
-|Be̍h-gê kauh餅|餅乾kap麥芽糖。|
+|chhiu chhiu chhiu|『羞 羞 羞，羞羞臉。』|
+|bē見笑|『不知羞恥』。|
+|he-ku|『氣喘病』。|
+|pān-á|『樣板』。|
+|chn̄g|用嘴舌chī。|
+|be̍h-gê kauh餅|餅乾kap麥芽糖。|
