@@ -218,6 +218,6 @@ Keⁿ／kiⁿ（經）布，chit（織）草蓆，chhiah（刺）膨紗，pīⁿ
 |死to̍h soah死to̍h soah|形容穿皮鞋行路聲，sīⁿ soāiⁿ sīⁿ soāiⁿ。|
 |篾橋|破篾á時，kiap tī柴刀ê竹片，大細比台尺khah大pán。柴刀肉kah 1-ki篾橋，增加刀肉厚度，破篾á khah liú掠。|
 |溫溫á|Un-un-á，溫火慢燉。|
-|Mo͘h-tah|『馬達』。|
+|mo͘h-tah|『馬達』。|
 |狗齒á|Káu-khí-á，to̍h-sī『齒輪』， cogwheel。|
-|Khan-liân-tē|Khai-thian-tē（開天地）ê變音。|
+|khan-liân-tē|Khai-thian-tē（開天地）ê變音。|
