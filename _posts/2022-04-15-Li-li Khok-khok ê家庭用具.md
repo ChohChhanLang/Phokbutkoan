@@ -16,11 +16,11 @@ toc: true
 # 1. 木屐
 > **Ba̍k-kia̍h**
 
-木屐mā號做柴屐，削木材合腳蹄，釘樹奶皮á做耳，是1950年代進前田庄人ê柴鞋、柴拖á鞋，tī hit ê罕得有鞋thang穿ê作穡人，木屐是無閒一工歇睏後ê腳蹄。一工穡頭結束，腳手面洗洗--leh mā tio̍h洗腳chiah ē-tàng chiūⁿ眠床睏眠，洗腳後to̍h ài穿geh-tah （木屐）。
+木屐mā號做柴屐，削木材合腳蹄，釘樹奶皮á做耳，是1950年代進前田庄人ê柴鞋、柴拖á鞋。罕得有鞋thang穿ê作穡人，木屐是無閒一工歇睏後ê腳蹄。一工穡頭結束，腳手面洗洗--leh mā tio̍h洗腳chiah ē-tàng chiūⁿ眠床睏眠，洗腳後to̍h ài穿geh-tah （木屐）。
 
-國校出業進前，穿無超過2雙布鞋，穿布鞋ê機會tī過年，去阿姑、阿姊、親情tau kap學校遠足，chhun--ê lóng是thǹg赤腳。暗頓食飽洗腳洗清氣to̍h ē穿木屐，穿木屐去看戲看鬧熱、看王祿á，a̍h是月光暝gín-á伴招thit-thô，無節目to̍h是準備chiūⁿ眠床o͘ⁿ-o͘ⁿ睏，腳nā無洗，序大人bē允准你去睏。
+國校出業進前，穿無超過2雙布鞋，穿布鞋ê機會tī過年，去阿姑、阿姊、親chiâⁿ tau kap學校遠足，chhun--ê lóng是thǹg赤腳。暗頓食飽洗腳洗清氣to̍h ē穿木屐，穿木屐去看戲看鬧熱、看王祿á，a̍h是月光暝gín-á伴招thit-thô，無節目to̍h是準備chiūⁿ眠床o͘ⁿ-o͘ⁿ睏，腳nā無洗，序大人bē允准你去睏。
 
-庄腳人ê木屐khah chē是ka-tī chhò柴ka-tī thâi，二兄真gâu thâi木屐，苦楝á柴、樟á柴是材料，用柴刀chām，chiah koh用刀á修，木屐耳chhōe he害車輪ê樹奶，a̍h是khioh he bē用得ê皮帶，古早hit-lō ga-là-suh皮帶chiâⁿ好用，鉸2節hô腳用釘á釘好勢，to̍h是1雙「khiáu khiáu khiáu khiáu」ê木屐，人未到聲先到，to̍h是穿木屐趣味，聽tio̍h木屐聲，to̍h知影有人leh來，koh知影是siáⁿ-mih人。
+庄腳人ê木屐khah chē是ka-tī chhò柴ka-tī thâi，二兄真gâu thâi木屐，苦楝á柴、樟á柴是材料，用柴刀chām，chiah koh用刀á修，木屐耳chhōe he害車輪ê樹奶，a̍h是khioh he bē用--得ê皮帶，古早hit-lō ga-là-suh皮帶chiâⁿ好用，鉸2節hô腳用釘á釘好勢，to̍h是1雙「khiáu khiáu khiáu khiáu」ê木屐，人未到聲先到，to̍h是穿木屐趣味，聽tio̍h木屐聲，to̍h知影有人leh來，koh知影是siáⁿ-mih人。
 
 除了合腳形ê皮á耳木屐，mā有hit-lō三耳á木屐，四角長liâu形，有3-kâi khang，用棕毛pīⁿ成Y字型ê耳，親像chit-mái ê『夾腳拖』，不過khah少人穿，用腳指頭á giap--leh ē疼bē慣勢，穿--起-來淡薄á sêng日本人。
 ![](../too5/16/16-8-1木屐柴屐.jpg)  
@@ -30,7 +30,7 @@ toc: true
 # 2. 蚊á水Chōaⁿ
 > **Báng-á-chúi-chōaⁿ**
 
-古早木蝨、ka蚤kài chē，藏tī長頭毛內ê蝨母mā bē少，因為寄生tī人ê身--上，只好用蝨篦pìn，用手lia̍h，無tio̍h用藥á thāu，1965年代家家戶戶噴DDT，殺死無數蟲thōa，m̄-koh ē飛ē bih ê蚊蟲，猶原bē斷根，boeh睏進前tio̍h ài pōaⁿ蚊nê蚊罩，nā是tn̄g-tio̍h蚊á chē到póe-bē離，蚊á水siāng應效。蚊á水tio̍h倒入去蚊á水chōaⁿ管á內，chiah ē-tàng chōaⁿ出霧狀。
+古早木蝨、ka蚤kài chē，藏tī長頭毛內ê蝨母mā bē少，因為寄生tī人ê身--上，只好用蝨篦pìn，用手lia̍h，無to̍h用藥á thāu，1965年代家家戶戶噴DDT，殺死無數蟲thōa，m̄-koh ē飛ē bih ê蚊蟲，猶原bē斷根，boeh睏進前tio̍h ài pōaⁿ蚊nê蚊罩，nā是tn̄g-tio̍h蚊á chē到póe-bē離，蚊á水siāng應效。蚊á水tio̍h倒入去蚊á水chōaⁿ管á內，chiah ē-tàng chōaⁿ出霧狀。
 
 蚊á水chōaⁿ是一支風聚á黏tī 1-kâi銅管á，銅管á貯蚊á水，有嘴á kap風聚á出口成90°，風聚á nā連sòa聚風，因為氣壓「壓力差」ê因素，to̍h ē kā銅管á內ê蚊á水噴出霧狀。
 ![](../too5/16/16-8-3蠓仔水濺忠義.jpg) 
