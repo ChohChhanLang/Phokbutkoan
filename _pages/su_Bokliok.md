@@ -6,7 +6,7 @@ category: siaukai
 layout: post
 ---
 
-### 《第1章——作田人田園記事》
+### 〈第1章——作田人田園記事〉
 
 1. [家鄉ê景致](https://siaulahjih.github.io/ChohChhanLang/chheh/01-01.html)
 2. [作田人Kui年冬ê Khang-khòe](https://siaulahjih.github.io/ChohChhanLang/chheh/01-02.html)
@@ -25,7 +25,7 @@ layout: post
 15. [粟á kap其他資源收藏](https://siaulahjih.github.io/ChohChhanLang/chheh/01-15.html) 
 16. [醬鹹曝Koaⁿ kap收藏ê家私](https://siaulahjih.github.io/ChohChhanLang/chheh/01-16.html) 
 
-### 《第2章——作田人Chia̍h-si̍t記事》
+### 〈第2章——作田人Chia̍h-si̍t記事〉
 
 1. [氣力補給站──灶腳](https://siaulahjih.github.io/ChohChhanLang/chheh/02-01.html)
 2. [灶有Jōa-chē款？](https://siaulahjih.github.io/ChohChhanLang/chheh/02-02.html)
@@ -49,7 +49,7 @@ layout: post
 20. [Taⁿ水貯水ê家私](https://siaulahjih.github.io/ChohChhanLang/chheh/02-20.html) 
 21. [Lim水泡茶](https://siaulahjih.github.io/ChohChhanLang/chheh/02-21.html) 
 
-### 《第3章——作田人生活記事》 
+### 〈第3章——作田人生活記事〉
 
 1. [買賣用ê尺斗秤](https://siaulahjih.github.io/ChohChhanLang/chheh/03-01.html) 
 2. [庄腳店á買賣](https://siaulahjih.github.io/ChohChhanLang/chheh/03-02.html) 
@@ -81,7 +81,7 @@ layout: post
 28. [Phah鎖匙](https://siaulahjih.github.io/ChohChhanLang/chheh/03-28.html) 
 29. [割漆](https://siaulahjih.github.io/ChohChhanLang/chheh/03-29.html) 
 
-### 《第4章——作田人Khiā家記事》
+### 〈第4章——作田人Khiā家記事〉
 
 1. [蕭--家厝宅ê演變kap歷史](https://siaulahjih.github.io/ChohChhanLang/chheh/04-01.html) 
 2. [早期農村ê各式厝宅](https://siaulahjih.github.io/ChohChhanLang/chheh/04-02.html) 
@@ -99,7 +99,7 @@ layout: post
 14. [洗Tn̄g用具](https://siaulahjih.github.io/ChohChhanLang/chheh/04-14.html) 
 15. [Li-li Kho̍k-kho̍k ê家庭用具](https://siaulahjih.github.io/ChohChhanLang/chheh/04-15.html) 
 
-### 《第5章——作田人傳統記事》  
+### 〈第5章——作田人傳統記事〉  
 
 1. [粿——食米文化](https://siaulahjih.github.io/ChohChhanLang/chheh/05-01.html) 
 2. [粿Ài Án-chóaⁿ做？](https://siaulahjih.github.io/ChohChhanLang/chheh/05-02.html)  
@@ -120,7 +120,7 @@ layout: post
 17. [薰焙á kap Pok薰文化](https://siaulahjih.github.io/ChohChhanLang/chheh/05-17.html)  
 18. [龍眼焙á](https://siaulahjih.github.io/ChohChhanLang/chheh/05-18.html)  
 
-### 《第6章——作田人在地記事目錄》
+### 〈第6章——作田人在地記事目錄〉
 
 1. [崁頂庄集興軒子弟（團）](https://siaulahjih.github.io/ChohChhanLang/chheh/06-01.html) 
 2. [崁頂庄敆作師傅阿隆師](https://siaulahjih.github.io/ChohChhanLang/chheh/06-02.html)  
