@@ -73,7 +73,7 @@ Tn̄g-tio̍h過年厝內大piàⁿ掃，厝頂kài chē蜘蛛絲kap ian-thûn（
 ![](../too5/16/16-8-14掃梳陳松雄.jpg)
 
 
-厝內掃土腳用掃帚，輕省liú-lia̍h，棕pa̍k--ê khah勇，mā有用菅蓁á花，siāng捷看tio̍h--ê是kō͘掃帚草pa̍k--ê。古早人勤儉khioh-si̍p，一支掃帚掃kah boeh ui--去ê掃帚lûi-á mā m̄ kam hiat-ka̍k。
+厝內掃土腳用掃帚，輕省liú-lia̍h，棕pa̍k--ê khah勇，mā有用菅蓁á花，siāng捷看--tio̍h-ê是kō͘掃帚草pa̍k--ê。古早人勤儉khioh-si̍p，一支掃帚掃kah boeh ui--去ê掃帚lûi-á mā m̄-kam hiat-ka̍k。
 ![](../too5/16/16-8-15掃帚.jpg) 
 ![](../too5/16/16-8-16掃帚.jpg)
 
@@ -88,10 +88,10 @@ Tn̄g-tio̍h過年厝內大piàⁿ掃，厝頂kài chē蜘蛛絲kap ian-thûn（
 |**詞**|**解說**|
 |chhun--ê|『剩下的』。|
 |柴頭木koe̍h|Chhâ-thâu ba̍k-koe̍h，『木頭木材』。|
-|thâi|『殺』，台語人ê thâi，thâi雞/鴨，thâi扁擔/kan-lo̍k，相thâi，giâ刀á創作ê意涵。Nā是講sat，to̍h hām華語ê『殺』kāng意思。|
+|thâi|『殺』，台語人ê thâi，thâi雞／鴨，thâi扁擔／kan-lo̍k，相thâi，giâ刀á創作ê意涵。Nā是講sat，to̍h hām華語ê『殺』kāng意思。|
 |hô腳|Hô-kha，『符合腳的大小尺寸』。|
 |四角長liau形|Sì-kak tn̂g-liau-hêng，『長方形』。|
-|眠床|Bûn-chhn̂g/Bîn-chhn̂g，安眠an-bîn，眠夢bîn-bāng。|
+|眠床|Bûn-chhn̂g／Bîn-chhn̂g，安眠an-bîn，眠夢bîn-bāng。|
 |斑芝樹|Pan-chi-chhiū，『木棉樹』。|
 |thǹg赤腳|Thǹg-chhiah-kha，『打赤腳』。|
 |王祿á|Ông-lo̍k-á，『行走江湖，以賣藥、賣藝為生的人』。|
