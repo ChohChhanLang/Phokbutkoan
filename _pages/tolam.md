@@ -72,7 +72,7 @@ Kó͘-bu̍t kó͘-bu̍t, Sian-jîn tì-hūi, Liáu-kái liáu-kái, Tui-su si�
 2022年，將資料têng整理、têng編排了，《作田人博物館》chiūⁿ網，利便大家學習台語文kap台灣學。
 
 
-# 2. 網頁版目錄Link
+# 2. 網頁版目錄
 電子版網頁koh加入章ê概念，分做六章，hō͘讀者khah有概念khah好讀，以下是目錄：
 
 
