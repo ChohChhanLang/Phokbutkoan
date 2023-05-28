@@ -1,5 +1,5 @@
 ---
-title: 《作田人博物館目錄》
+title: 《作田人博物館目錄Link》
 author: Siau Lah-jih
 date: 1000-01-05
 category: siaukai
@@ -57,7 +57,7 @@ layout: post
 4. [早期運貨送貨ê方式──人工運搬](https://siaulahjih.github.io/ChohChhanLang/chheh/03-04.html) 
 5. [農業社會上要緊ê運搬家私──牛車](https://siaulahjih.github.io/ChohChhanLang/chheh/03-05.html) 
 6. [人力運搬重要ê家私──鐵馬](https://siaulahjih.github.io/ChohChhanLang/chheh/03-06.html) 
-7. [業時代──機車取代人力獸力](https://siaulahjih.github.io/ChohChhanLang/chheh/03-07.html) 
+7. [工業時代──機車取代人力獸力](https://siaulahjih.github.io/ChohChhanLang/chheh/03-07.html) 
 8. [土水師傅ê家私](https://siaulahjih.github.io/ChohChhanLang/chheh/03-08.html) 
 9. [Pōe田土ê家私](https://siaulahjih.github.io/ChohChhanLang/chheh/03-09.html) 
 10. [切物割物ê家私](https://siaulahjih.github.io/ChohChhanLang/chheh/03-10.html) 
