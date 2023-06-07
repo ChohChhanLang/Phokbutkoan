@@ -1,5 +1,5 @@
 ---
-title: 《作田人博物館目錄Link》
+title: 《作田人博物館目錄》Link
 author: Siau Lah-jih
 date: 1000-01-05
 category: siaukai
