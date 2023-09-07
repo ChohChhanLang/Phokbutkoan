@@ -16,13 +16,9 @@ layout: post
 
 [《台灣俗語鹹酸甜第3冊》](https://siaulahjih.github.io/KiamSngTinn3/)
 
-- [鹹酸甜台文工作室](http://blog.xuite.net/kouhua/kiamsngtinn)
-
 - [老人囡仔性閒閒罔話仙](http://chhantionglang.blogspot.com/)
 
 - [台語讀寫 有聲教學](http://tiantionglang.blogspot.com/)
-
-- [Lahjih老師的網誌](http://blog.xuite.net/kouhua/lahjih)
 
 
 #### 《台灣字kap台語聲韻白話字教學影片》
