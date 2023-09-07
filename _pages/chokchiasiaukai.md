@@ -76,9 +76,6 @@ layout: post
 
 ### 5. 個人網頁
 
-- [鹹酸甜台文工作室](http://blog.xuite.net/kouhua/kiamsngtinn)
 - [老人囡仔性閒閒罔話仙](http://chhantionglang.blogspot.com/)
 - [台語讀寫 有聲教學](http://tiantionglang.blogspot.com/)
-- [Lahjih老師的網誌](http://blog.xuite.net/kouhua/lahjih)
-
 ![](../../too5/00/chokchia2.jpg)
