@@ -16,6 +16,8 @@ layout: post
 
 [《台灣俗語鹹酸甜第3冊》](https://siaulahjih.github.io/KiamSngTinn3/)
 
+[《蕭平治老師台文冊櫥》](https://ljlstbchht.blogspot.com/)
+
 - [老人囡仔性閒閒罔話仙](http://chhantionglang.blogspot.com/)
 
 - [台語讀寫 有聲教學](http://tiantionglang.blogspot.com/)
