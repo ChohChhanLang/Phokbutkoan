@@ -9,6 +9,9 @@
             "website": "styles/website.css"
         },
         "pluginsConfig": {
+            "expandable-chapter-small2": {
+                "articlesExpand": true,
+            },
             "fontsettings": {
                 "family": "sans",
                 "size": 2,
@@ -21,15 +24,9 @@
                 "maxIndexSize": 1000000
             },
             "search": {},
-            "sharing": {
-                "all": ["facebook", "google", "twitter", "weibo", "instapaper"],
-                "facebook": true,
-                "google": false,
-                "instapaper": false,
-                "twitter": true,
-                "vk": false,
-                "weibo": false
-            },
+
+            {%- include gitbook-sharing.json.tpl -%}
+
             "theme-default": {
                 "showLevel": false,
                 "styles": {
@@ -40,7 +37,7 @@
                     "print": "styles/print.css",
                     "website": "styles/website.css"
                 }
-            }
+            },
         },
         "theme": "default",
         "author": "Tao He",

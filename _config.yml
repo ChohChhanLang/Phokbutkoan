@@ -1,22 +1,28 @@
 # Configurations
 title:            《作田人博物館》
-longtitle:        Choh-chhân-lâng Phok-bu̍t-koán (作田人博物館)
+longtitle:        Choh-chhân-lâng Phok-bu̍t-koán
 author:           Siau Lah-jih
-email:            taibunkesimi+chohchhanlang@gmail.com
+email:            
 description: >
-  Build Jekyll site with the GitBook style.
+  《作田人博物館》Choh-chhân-lâng Phok-bu̍t-koán
 
-version:          0.1
+version:          2.0
 gitbook_version:  3.2.3
 
-url:              ''
-baseurl:          'https://siaulahjih.github.io/ChohChhanLang'
+url:              'https://siaulahjih.github.io'
+baseurl:          '/ChohChhanLang'
 rss:              RSS
+
+# bootstrap: use the remote theme for the site itself
+remote_theme: sighingnow/jekyll-gitbook
 
 toc:
   enabled: true
-  h_min: 1
-  h_max: 2
+  h_min:   1
+  h_max:   2
+
+# customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
+favicon_path:     /assets/gitbook/images/favicon.ico
 
 # markdown render engine.
 markdown:         kramdown
@@ -30,14 +36,17 @@ kramdown:
   syntax_highlighter_opts:
     guess_lang:           true
   typographic_symbols:
-      ndash: --
+    ndash: --
 
 syntax_highlighter_style: colorful
 
-markdown_ext:     markdown,mkdown,mkdn,mkd,md
+markdown_ext:             markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
-permalink:        /:categories/:month-:day:output_ext
+permalink:                /:categories/:month-:day:output_ext
+
+# Disqus comments
+# disqushandler:            sighingnow
 
 exclude:
   - _drafts
@@ -46,6 +55,14 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
+  others:
+    output: true
+    permalink: /:collection/:path/
+
+ordered_collections:
+  - pages
+  - posts
+  - others
 
 page_width: 800px
 
@@ -55,7 +72,12 @@ regenerate:       true
 
 plugins:
   - jekyll-feed
+  - jekyll-readme-index
   - jemoji
-  - jekyll-spaceship
+
+tracker:
+  google_analytics: "G-XG4HSSM1PZ"
 
 extra_css: extra_css.css
+extra_header_js: extra_header_js.js
+extra_footer_js: extra_footer_js.js

@@ -19,12 +19,21 @@
                     {% endif %}
 
                     {% if page.toc %}
-                    <table><tr><td><h2 id="{{ page.toc }}">目錄</h2>
-                    {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
-                    </td></tr></table>
+                    <table>
+                        <tr>
+                            <td>
+                                <h2 id="{{ page.toc }}">目錄</h2>
+                                {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
+                            </td>
+                        </tr>
+                    </table>
                     {% endif %}
 
                     {{ content }}
+
+                    {%- if jekyll.environment != 'dev' and site.disqushandler -%}
+                        {%- include disqus.html -%}
+                    {%- endif -%}
                 </section>
             </div>
 
@@ -32,3 +41,14 @@
         </div>
     </div>
 </div>
+
+<!-- introduce mathjax support -->
+{% include mathjax.html %}
+
+<!-- introduce per-page mermaid support -->
+{% if page.mermaid %}
+    {% include mermaid.html %}
+{% endif %}
+
+<!-- introduce mathjax support -->
+{% include fixes-chrome-anchors.html %}
